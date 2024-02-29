@@ -1,12 +1,10 @@
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm MapleLeaf</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-<<<<<<< HEAD
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xingyu1024&label=Profile%20views&color=0e75b6&style=flat" alt="xingyu1024" /> </p>
-=======
-
-**xingyu1024/xingyu1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
->>>>>>> f466649c0635b108ab1e848113050447d5a9e1c5
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xingyu1024" alt="xingyu1024" /></a> </p>
 
@@ -35,14 +33,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/xingyu1024/xingyu1024/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<<<<<<< HEAD
-=======
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
->>>>>>> f466649c0635b108ab1e848113050447d5a9e1c5

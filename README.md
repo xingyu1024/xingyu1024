@@ -10,7 +10,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   🖥️Activity Graph
 
-![](https://activity-graph.herokuapp.com/graph?username=xingyu1024&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+[![MapleLeaf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xingyu1024&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ###   😜Commit Stats

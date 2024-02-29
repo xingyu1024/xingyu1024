@@ -16,7 +16,7 @@
 ### 📈 GitHub Activity Graph:
 <!-- [![MapleLeaf's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
 ![MapleLeaf's github activity graph](https://raw.githubusercontent.com/xingyu1024/xingyu1024/output/github-contribution-grid-snake.svg)
-| .                                                                                                                                       | .                                                                                                                         |
+| 😜Commit Stats                                                                                                                                       | 🤓Top Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![MapleLeaf's github stats](https://github-readme-stats.vercel.app/api?username=xingyu1024&show_icons=true&theme=radical&include_all_commits=true) | ![MapleLeaf's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xingyu1024&theme=radical&layout=compact) |
 

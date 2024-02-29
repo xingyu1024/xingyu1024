@@ -20,8 +20,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![MapleLeaf's github stats](https://github-readme-stats.vercel.app/api?username=xingyu1024&show_icons=true&theme=radical&include_all_commits=true) | ![MapleLeaf's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xingyu1024&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xingyu1024"></img>
-
 ###   😜Commit Stats
 ![](https://github-readme-stats.vercel.app/api?username=xingyu1024&count_private=true&show_icons=true&theme=radical&show_owner=true)
 ![](https://github-profile-trophy.vercel.app/?username=xingyu1024&theme=radical&row=1)

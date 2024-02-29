@@ -3,8 +3,7 @@
 <p align="center">I publish open source software here. All the repositories are at your disposal.</p>
 
 <!--   my-ticker -->    
-<picture align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+xingyu+Ma;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;backend+development+enthusiast+)](https://git.io/typing-svg)</picture>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+xingyu+Ma;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;backend+development+enthusiast+)](https://git.io/typing-svg)
 
 <!-- Activity Graph -->
 ###   🖥️Activity Graph
